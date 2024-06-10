@@ -3,7 +3,7 @@
 - 🔭 I’m currently a senior student in [SCNU](https://www.scnu.edu.cn/) (South China Normal University) at School of Physics
 - 🌱 I’m currently learning artificial intelligence
 - 😄 I'm going to be a master(CCA) in [NTU](https://www.ntu.edu.sg/) (Nanyang Technological University) at School of Electrical & Electronic Engineering
-- 💬 How to reach me: temporarily not, Will have in the future
+- 💬 How to reach me: JINXIN003@e.ntu.edu.sg
 ---
 
 <!---
