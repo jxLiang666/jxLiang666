@@ -1,4 +1,4 @@
-##  👋 Hi, I’m jxLiang
+##  👋 Hi, I’m Liang Jinxin
 ---
 - 🔭 I was a senior student in [SCNU](https://www.scnu.edu.cn/) (South China Normal University) at School of Physics
 - 🌱 I’m currently learning artificial intelligence
